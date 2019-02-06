@@ -1,0 +1,260 @@
+
+body{
+    background-color:gainsboro;
+    font-size: 1cm;
+    font-family: sans-serif;
+
+}
+.center-pill{
+    text-align: center;
+    color: darkblue;
+}
+div{
+    text-align: center;
+    background-color:grey;
+    font-size: large;
+    padding: 100px;
+    position: fixed;
+    right: 150px;
+    left: 150px;
+    top: 250px;
+    font-weight: inherit;
+    font-family: Arial;
+}
+.button1{
+    position: fixed;
+    right: 10cm;
+    cursor: pointer;
+    background-color: #6be3b2;
+    border: none;
+    color: black;
+    padding: 20px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+}
+.button1:hover{
+    background-color: #f8ee18;
+    color: red;
+}
+.button2{
+    position: fixed;
+    left: 10cm;
+    cursor: pointer;
+    background-color:#6be3b2;
+    border: none;
+    color: black;
+    padding: 20px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+}
+.button2:hover{
+    background-color: #f8ee18;
+    color: red;
+}
+.service{
+    background-color: gainsboro;
+
+}
+.Service1{
+    text-align: center;
+    color: black;
+}
+.Servicediv{
+    text-align: center;
+    background-color:grey;
+    font-size: large;
+    padding: 100px;
+    position: fixed;
+    right: 150px;
+    left: 150px;
+    top: 250px;
+    font-weight: inherit;
+    font-family:sans-serif;
+}
+.serviceButton1{
+    position: fixed;
+    right:10cm;
+    cursor: pointer;
+    background-color: lightyellow;
+    border: none;
+    color: black;
+    padding: 20px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+}
+.serviceButton1:hover{
+    background-color: #4CAF50; /* Green */
+    color: white;}
+.serviceButton2{
+    position: fixed;
+    left: 10cm;
+    cursor: pointer;
+    background-color:lightyellow;
+    border: none;
+    color: black;
+    padding: 20px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+}
+.serviceButton2:hover{
+    background-color: #4CAF50;
+    color: white;
+}
+.Button3{
+    position: center;
+    padding: 15px 15px;
+    cursor: pointer;
+    background-color: #f675ff;
+    border: none;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    float: left;
+}
+.Button3 :hover {
+    background-color: #ff1580;
+    color: white;
+}
+
+/*.Rejister{*/
+    /*background-color: gainsboro;*/
+    /*font-size: medium;*/
+    /*font-family: Arial;*/
+
+/*}*/
+/*.table-cell1{*/
+
+
+
+/*}*/
+.center-pill{
+    text-align: center;
+    color: black;
+    font-size: xx-large;
+}
+.name-cell{
+    display: table-cell;
+    padding: 8px;
+}
+.rejister{
+    cursor: pointer;
+    background-color: lightyellow;
+    border: none;
+    color: black;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+}
+.rejister:hover{
+    background-color: #ef375c;
+    color: white;
+}
+.RejisterResult{
+    background-color: ghostwhite;
+    font-size: x-large;
+    font-family: Tahoma;
+    position:center;
+}
+/*.CRejister{*/
+
+/*}*/
+
+.Search{
+    background-color: gainsboro;
+    font-size: medium;
+    font-family: Arial;
+}
+.table-cell2{
+    position: fixed;
+    top: 3cm;
+    left: 4cm;
+    right: 4cm;
+    height: 280px;
+    background: #03a804;
+    border: 2px solid;
+    margin: 5px;
+    font-size: x-large;
+    font-family: Tahoma;
+}
+.SearchResult{
+    background-color: #f2f2f2;
+    font-size: 1cm;
+    font-family: Tahoma;
+}
+.table{
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 70%;
+    border:1px black;
+    height: 20px;
+    position: fixed;
+    top: 2cm;
+    left: 4cm;
+    right:4cm;
+    text-align: center;
+
+}
+.tr{
+    background-color: #53c057;
+    font-size: large;
+    font-family: Tahoma;
+    margin: 50px;
+    height: 30px;
+}
+.delete{
+    position: center;
+    padding: 15px 15px;
+    cursor: pointer;
+    background-color: #f4ea18;
+    border: none;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+}
+.delete:hover{
+    background-color: #f00000;
+    color: white;
+}
+.update{
+    position: center;
+    padding: 15px 15px;
+    cursor: pointer;
+    background-color: #64f12d;
+    border: none;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+}
+.update:hover{
+    background-color: #ffa519;
+    color: white;
+}
+.update1 {
+    background-color: #c7e82f;
+    font-family: Tahoma;
+    font-size: x-large;
+    text-align: center;
+}
+.Del{
+    background-color: #dacde8;
+    font-family: Tahoma;
+    font-size: x-large;
+    text-align: center;
+}
+
